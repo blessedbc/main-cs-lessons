@@ -1,0 +1,18 @@
+The "theory of return values" generally relates to programming and software development, focusing on how functions or methods return values to the caller after execution. Here are some key points to consider:
+
+1. **Definition**: A return value is the output produced by a function when it completes its task. This value can be used by the calling code for further processing.
+
+2. **Types of Return Values**:
+   - **Primitive Types**: These include integers, floats, booleans, etc.
+   - **Composite Types**: Functions can return arrays, objects, or even user-defined types.
+   - **Void Functions**: Some functions don’t return a value at all (e.g., `void` functions in C/C++).
+
+3. **Importance**: Return values allow for modular programming. Functions can perform specific tasks and send results back, making code reusable and easier to maintain.
+
+4. **Return Value Handling**: In many programming languages, it's crucial to handle return values properly, including error checking (e.g., checking for `null` or `undefined`).
+
+5. **Multiple Return Values**: Some languages (like Python) support returning multiple values as tuples, enabling functions to provide more information to the caller.
+
+6. **Side Effects**: Functions can also produce side effects (like modifying global variables), but relying solely on return values is a cleaner and more predictable approach.
+
+If you were thinking about a different context for the theory of return values, please clarify!
