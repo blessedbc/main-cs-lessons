@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Uc\source\repos\myprojectcs1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Uc\source\repos\myprojectcs1\ConsoleApp1\obj\Debug\if, else if and else statements.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\ConsoleApp1\obj\Debug\if, else if and else statements.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Uc\source\repos\myprojectcs1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

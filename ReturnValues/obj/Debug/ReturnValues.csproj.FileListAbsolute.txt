@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\ReturnValues\bin\Debug\ReturnValues.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\ReturnValues\bin\Debug\ReturnValues.exe
+C:\Users\Uc\source\repos\myprojectcs1\ReturnValues\bin\Debug\ReturnValues.pdb
+C:\Users\Uc\source\repos\myprojectcs1\ReturnValues\obj\Debug\ReturnValues.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\ReturnValues\obj\Debug\ReturnValues.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\ReturnValues\obj\Debug\ReturnValues.exe
+C:\Users\Uc\source\repos\myprojectcs1\ReturnValues\obj\Debug\ReturnValues.pdb

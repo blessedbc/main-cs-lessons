@@ -45,7 +45,7 @@ namespace DataTypes
             Console.WriteLine(decimal.MinValue);
 
             age = 50;
-
+            
             Console.ReadLine();
         }
     }

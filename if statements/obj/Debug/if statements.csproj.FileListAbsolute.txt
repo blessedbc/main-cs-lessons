@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\if statements\bin\Debug\if statements.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\if statements\bin\Debug\if statements.exe
+C:\Users\Uc\source\repos\myprojectcs1\if statements\bin\Debug\if statements.pdb
+C:\Users\Uc\source\repos\myprojectcs1\if statements\obj\Debug\if statements.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\if statements\obj\Debug\if statements.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\if statements\obj\Debug\if statements.exe
+C:\Users\Uc\source\repos\myprojectcs1\if statements\obj\Debug\if statements.pdb
