@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\whitespace\bin\Debug\whitespace.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\whitespace\bin\Debug\whitespace.exe
+C:\Users\Uc\source\repos\myprojectcs1\whitespace\bin\Debug\whitespace.pdb
+C:\Users\Uc\source\repos\myprojectcs1\whitespace\obj\Debug\whitespace.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\whitespace\obj\Debug\whitespace.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\whitespace\obj\Debug\whitespace.exe
+C:\Users\Uc\source\repos\myprojectcs1\whitespace\obj\Debug\whitespace.pdb

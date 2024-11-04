@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0404CE5E-D2B2-489A-85E5-14688EC8AED9}</ProjectGuid>
+    <ProjectGuid>{8E642FC7-7371-451D-842D-CBF2AA4F3661}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>myprojectcs</RootNamespace>
-    <AssemblyName>myprojectcs</AssemblyName>
+    <RootNamespace>rules_and_conventions</RootNamespace>
+    <AssemblyName>rules and conventions</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="theory of Datatypes" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

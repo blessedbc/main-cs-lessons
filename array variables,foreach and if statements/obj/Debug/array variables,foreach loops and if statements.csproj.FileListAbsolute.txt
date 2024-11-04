@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\array variables,foreach and if statements\bin\Debug\array variables,foreach and if statements.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\array variables,foreach and if statements\bin\Debug\array variables,foreach and if statements.exe
+C:\Users\Uc\source\repos\myprojectcs1\array variables,foreach and if statements\bin\Debug\array variables,foreach and if statements.pdb
+C:\Users\Uc\source\repos\myprojectcs1\array variables,foreach and if statements\obj\Debug\array variables,foreach loops and if statements.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\array variables,foreach and if statements\obj\Debug\array variables,foreach loops and if statements.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\array variables,foreach and if statements\obj\Debug\array variables,foreach and if statements.exe
+C:\Users\Uc\source\repos\myprojectcs1\array variables,foreach and if statements\obj\Debug\array variables,foreach and if statements.pdb

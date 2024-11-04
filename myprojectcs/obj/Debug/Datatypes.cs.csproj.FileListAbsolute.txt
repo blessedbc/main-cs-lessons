@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\myprojectcs\bin\Debug\myprojectcs.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\myprojectcs\bin\Debug\myprojectcs.exe
+C:\Users\Uc\source\repos\myprojectcs1\myprojectcs\bin\Debug\myprojectcs.pdb
+C:\Users\Uc\source\repos\myprojectcs1\myprojectcs\obj\Debug\Datatypes.cs.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\myprojectcs\obj\Debug\Datatypes.cs.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\myprojectcs\obj\Debug\myprojectcs.exe
+C:\Users\Uc\source\repos\myprojectcs1\myprojectcs\obj\Debug\myprojectcs.pdb

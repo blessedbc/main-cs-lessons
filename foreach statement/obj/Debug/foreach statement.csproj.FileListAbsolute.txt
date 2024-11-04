@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\foreach statement\bin\Debug\foreach statement.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\foreach statement\bin\Debug\foreach statement.exe
+C:\Users\Uc\source\repos\myprojectcs1\foreach statement\bin\Debug\foreach statement.pdb
+C:\Users\Uc\source\repos\myprojectcs1\foreach statement\obj\Debug\foreach statement.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\foreach statement\obj\Debug\foreach statement.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\foreach statement\obj\Debug\foreach statement.exe
+C:\Users\Uc\source\repos\myprojectcs1\foreach statement\obj\Debug\foreach statement.pdb
