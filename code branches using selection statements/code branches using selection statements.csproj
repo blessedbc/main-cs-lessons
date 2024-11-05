@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AFF66BE3-1966-4309-BA01-2ED014F9C07F}</ProjectGuid>
+    <ProjectGuid>{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>foreach_statement</RootNamespace>
-    <AssemblyName>foreach statement</AssemblyName>
+    <RootNamespace>code_branches_using_selection_statements</RootNamespace>
+    <AssemblyName>code branches using selection statements</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Theory of foreach statement" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

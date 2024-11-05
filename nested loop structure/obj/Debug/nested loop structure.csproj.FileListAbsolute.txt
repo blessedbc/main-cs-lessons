@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\nested loop structure\bin\Debug\nested loop structure.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\nested loop structure\bin\Debug\nested loop structure.exe
+C:\Users\Uc\source\repos\myprojectcs1\nested loop structure\bin\Debug\nested loop structure.pdb
+C:\Users\Uc\source\repos\myprojectcs1\nested loop structure\obj\Debug\nested loop structure.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\nested loop structure\obj\Debug\nested loop structure.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\nested loop structure\obj\Debug\nested loop structure.exe
+C:\Users\Uc\source\repos\myprojectcs1\nested loop structure\obj\Debug\nested loop structure.pdb

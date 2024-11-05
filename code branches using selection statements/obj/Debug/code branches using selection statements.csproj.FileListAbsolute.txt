@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\code branches using selection statements\bin\Debug\code branches using selection statements.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\code branches using selection statements\bin\Debug\code branches using selection statements.exe
+C:\Users\Uc\source\repos\myprojectcs1\code branches using selection statements\bin\Debug\code branches using selection statements.pdb
+C:\Users\Uc\source\repos\myprojectcs1\code branches using selection statements\obj\Debug\code branches using selection statements.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\code branches using selection statements\obj\Debug\code branches using selection statements.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\code branches using selection statements\obj\Debug\code branches using selection statements.exe
+C:\Users\Uc\source\repos\myprojectcs1\code branches using selection statements\obj\Debug\code branches using selection statements.pdb

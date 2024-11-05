@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whitespace", "whitespace\wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array variables,foreach loops and if statements", "array variables,foreach and if statements\array variables,foreach loops and if statements.csproj", "{B3A9EA0A-9E13-4C81-A9DE-B67552A50245}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nested loop structure", "nested loop structure\nested loop structure.csproj", "{1DB5DE7E-7A3A-491A-BA81-7477FC019E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code branches using selection statements", "code branches using selection statements\code branches using selection statements.csproj", "{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{B3A9EA0A-9E13-4C81-A9DE-B67552A50245}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A9EA0A-9E13-4C81-A9DE-B67552A50245}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A9EA0A-9E13-4C81-A9DE-B67552A50245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB5DE7E-7A3A-491A-BA81-7477FC019E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB5DE7E-7A3A-491A-BA81-7477FC019E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB5DE7E-7A3A-491A-BA81-7477FC019E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB5DE7E-7A3A-491A-BA81-7477FC019E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
