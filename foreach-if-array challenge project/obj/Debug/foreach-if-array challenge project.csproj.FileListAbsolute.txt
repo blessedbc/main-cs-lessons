@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\foreach-if-array challenge project\bin\Debug\foreach-if-array challenge project.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\foreach-if-array challenge project\bin\Debug\foreach-if-array challenge project.exe
+C:\Users\Uc\source\repos\myprojectcs1\foreach-if-array challenge project\bin\Debug\foreach-if-array challenge project.pdb
+C:\Users\Uc\source\repos\myprojectcs1\foreach-if-array challenge project\obj\Debug\foreach-if-array challenge project.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\foreach-if-array challenge project\obj\Debug\foreach-if-array challenge project.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\foreach-if-array challenge project\obj\Debug\foreach-if-array challenge project.exe
+C:\Users\Uc\source\repos\myprojectcs1\foreach-if-array challenge project\obj\Debug\foreach-if-array challenge project.pdb

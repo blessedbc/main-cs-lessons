@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nested loop structure", "ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code branches using selection statements", "code branches using selection statements\code branches using selection statements.csproj", "{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach-if-array challenge project", "foreach-if-array challenge project\foreach-if-array challenge project.csproj", "{55A41825-A173-447A-B830-1084755300A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "equality operator", "equality operator\equality operator.csproj", "{2C3F19A8-BC30-4EAB-A7B9-4E71309096B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13BC9A03-3EDD-4B6B-8FFC-F1D62C298A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A41825-A173-447A-B830-1084755300A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A41825-A173-447A-B830-1084755300A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A41825-A173-447A-B830-1084755300A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A41825-A173-447A-B830-1084755300A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3F19A8-BC30-4EAB-A7B9-4E71309096B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3F19A8-BC30-4EAB-A7B9-4E71309096B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3F19A8-BC30-4EAB-A7B9-4E71309096B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3F19A8-BC30-4EAB-A7B9-4E71309096B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

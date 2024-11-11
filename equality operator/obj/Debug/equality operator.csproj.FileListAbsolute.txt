@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\equality operator\bin\Debug\equality operator.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\equality operator\bin\Debug\equality operator.exe
+C:\Users\Uc\source\repos\myprojectcs1\equality operator\bin\Debug\equality operator.pdb
+C:\Users\Uc\source\repos\myprojectcs1\equality operator\obj\Debug\equality operator.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\equality operator\obj\Debug\equality operator.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\equality operator\obj\Debug\equality operator.exe
+C:\Users\Uc\source\repos\myprojectcs1\equality operator\obj\Debug\equality operator.pdb
