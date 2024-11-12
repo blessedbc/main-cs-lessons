@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\Boolean expressions\bin\Debug\Boolean expressions.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\Boolean expressions\bin\Debug\Boolean expressions.exe
+C:\Users\Uc\source\repos\myprojectcs1\Boolean expressions\bin\Debug\Boolean expressions.pdb
+C:\Users\Uc\source\repos\myprojectcs1\Boolean expressions\obj\Debug\Boolean expressions.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\Boolean expressions\obj\Debug\Boolean expressions.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\Boolean expressions\obj\Debug\Boolean expressions.exe
+C:\Users\Uc\source\repos\myprojectcs1\Boolean expressions\obj\Debug\Boolean expressions.pdb

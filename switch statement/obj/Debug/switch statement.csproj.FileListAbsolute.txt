@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\switch statement\bin\Debug\switch statement.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\switch statement\bin\Debug\switch statement.exe
+C:\Users\Uc\source\repos\myprojectcs1\switch statement\bin\Debug\switch statement.pdb
+C:\Users\Uc\source\repos\myprojectcs1\switch statement\obj\Debug\switch statement.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\switch statement\obj\Debug\switch statement.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\switch statement\obj\Debug\switch statement.exe
+C:\Users\Uc\source\repos\myprojectcs1\switch statement\obj\Debug\switch statement.pdb

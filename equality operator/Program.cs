@@ -10,7 +10,6 @@ namespace equality_operator
     {
         static void Main(string[] args)
         {
-            /*
             Console.WriteLine("a"=="a");
             Console.WriteLine("a"=="A");
             Console.WriteLine(1 == 2);
@@ -54,7 +53,7 @@ namespace equality_operator
             string s1 = "Hello";
             string s2 = "Hello";
             Console.WriteLine(s1 != s2);
-            */
+            
 
             int saleAmount = 1001;
             //int discount = saleAmount > 1000 ? 100 : 50;

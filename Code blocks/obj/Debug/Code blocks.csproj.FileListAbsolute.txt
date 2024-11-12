@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\Code blocks\bin\Debug\Code blocks.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\Code blocks\bin\Debug\Code blocks.exe
+C:\Users\Uc\source\repos\myprojectcs1\Code blocks\bin\Debug\Code blocks.pdb
+C:\Users\Uc\source\repos\myprojectcs1\Code blocks\obj\Debug\Code blocks.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\Code blocks\obj\Debug\Code blocks.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\Code blocks\obj\Debug\Code blocks.exe
+C:\Users\Uc\source\repos\myprojectcs1\Code blocks\obj\Debug\Code blocks.pdb

@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\Variable scope\bin\Debug\Variable scope.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\Variable scope\bin\Debug\Variable scope.exe
+C:\Users\Uc\source\repos\myprojectcs1\Variable scope\bin\Debug\Variable scope.pdb
+C:\Users\Uc\source\repos\myprojectcs1\Variable scope\obj\Debug\Variable scope.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\Variable scope\obj\Debug\Variable scope.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\Variable scope\obj\Debug\Variable scope.exe
+C:\Users\Uc\source\repos\myprojectcs1\Variable scope\obj\Debug\Variable scope.pdb

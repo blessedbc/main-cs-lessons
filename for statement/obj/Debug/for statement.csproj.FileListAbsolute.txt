@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\for statement\bin\Debug\for statement.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\for statement\bin\Debug\for statement.exe
+C:\Users\Uc\source\repos\myprojectcs1\for statement\bin\Debug\for statement.pdb
+C:\Users\Uc\source\repos\myprojectcs1\for statement\obj\Debug\for statement.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\for statement\obj\Debug\for statement.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\for statement\obj\Debug\for statement.exe
+C:\Users\Uc\source\repos\myprojectcs1\for statement\obj\Debug\for statement.pdb
