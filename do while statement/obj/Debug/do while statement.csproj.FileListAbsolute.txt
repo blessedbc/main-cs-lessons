@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\do while statement\bin\Debug\do while statement.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\do while statement\bin\Debug\do while statement.exe
+C:\Users\Uc\source\repos\myprojectcs1\do while statement\bin\Debug\do while statement.pdb
+C:\Users\Uc\source\repos\myprojectcs1\do while statement\obj\Debug\do while statement.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\do while statement\obj\Debug\do while statement.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\do while statement\obj\Debug\do while statement.exe
+C:\Users\Uc\source\repos\myprojectcs1\do while statement\obj\Debug\do while statement.pdb

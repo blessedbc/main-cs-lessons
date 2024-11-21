@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\integral types\bin\Debug\integral types.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\integral types\bin\Debug\integral types.exe
+C:\Users\Uc\source\repos\myprojectcs1\integral types\bin\Debug\integral types.pdb
+C:\Users\Uc\source\repos\myprojectcs1\integral types\obj\Debug\integral types.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\integral types\obj\Debug\integral types.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\integral types\obj\Debug\integral types.exe
+C:\Users\Uc\source\repos\myprojectcs1\integral types\obj\Debug\integral types.pdb

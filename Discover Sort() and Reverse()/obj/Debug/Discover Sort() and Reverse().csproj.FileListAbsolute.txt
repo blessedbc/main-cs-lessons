@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\Discover Sort() and Reverse()\obj\Debug\Discover Sort() and Reverse().csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\Discover Sort() and Reverse()\obj\Debug\Discover Sort() and Reverse().csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\Discover Sort() and Reverse()\bin\Debug\Discover Sort() and Reverse().exe.config
+C:\Users\Uc\source\repos\myprojectcs1\Discover Sort() and Reverse()\bin\Debug\Discover Sort() and Reverse().exe
+C:\Users\Uc\source\repos\myprojectcs1\Discover Sort() and Reverse()\bin\Debug\Discover Sort() and Reverse().pdb
+C:\Users\Uc\source\repos\myprojectcs1\Discover Sort() and Reverse()\obj\Debug\Discover Sort() and Reverse().exe
+C:\Users\Uc\source\repos\myprojectcs1\Discover Sort() and Reverse()\obj\Debug\Discover Sort() and Reverse().pdb

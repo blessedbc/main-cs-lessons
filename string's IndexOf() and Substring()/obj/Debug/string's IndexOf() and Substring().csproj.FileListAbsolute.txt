@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\string's IndexOf() and Substring()\bin\Debug\string's IndexOf() and Substring().exe.config
+C:\Users\Uc\source\repos\myprojectcs1\string's IndexOf() and Substring()\bin\Debug\string's IndexOf() and Substring().exe
+C:\Users\Uc\source\repos\myprojectcs1\string's IndexOf() and Substring()\bin\Debug\string's IndexOf() and Substring().pdb
+C:\Users\Uc\source\repos\myprojectcs1\string's IndexOf() and Substring()\obj\Debug\string's IndexOf() and Substring().csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\string's IndexOf() and Substring()\obj\Debug\string's IndexOf() and Substring().csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\string's IndexOf() and Substring()\obj\Debug\string's IndexOf() and Substring().exe
+C:\Users\Uc\source\repos\myprojectcs1\string's IndexOf() and Substring()\obj\Debug\string's IndexOf() and Substring().pdb

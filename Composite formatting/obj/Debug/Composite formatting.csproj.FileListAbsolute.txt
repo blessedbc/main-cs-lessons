@@ -1,0 +1,7 @@
+C:\Users\Uc\source\repos\myprojectcs1\Composite formatting\bin\Debug\Composite formatting.exe.config
+C:\Users\Uc\source\repos\myprojectcs1\Composite formatting\bin\Debug\Composite formatting.exe
+C:\Users\Uc\source\repos\myprojectcs1\Composite formatting\bin\Debug\Composite formatting.pdb
+C:\Users\Uc\source\repos\myprojectcs1\Composite formatting\obj\Debug\Composite formatting.csproj.AssemblyReference.cache
+C:\Users\Uc\source\repos\myprojectcs1\Composite formatting\obj\Debug\Composite formatting.csproj.CoreCompileInputs.cache
+C:\Users\Uc\source\repos\myprojectcs1\Composite formatting\obj\Debug\Composite formatting.exe
+C:\Users\Uc\source\repos\myprojectcs1\Composite formatting\obj\Debug\Composite formatting.pdb
